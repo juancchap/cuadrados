@@ -15,6 +15,7 @@ public class Cuadrados {
          cuadrado=(int)Math.pow( numero,2);
          JOptionPane.showMessageDialog(null,"El cuadrodo del numero es: "+cuadrado);
          numero=Integer.parseInt(JOptionPane.showInputDialog("Digita un numero"));
+         
      }
         
         
